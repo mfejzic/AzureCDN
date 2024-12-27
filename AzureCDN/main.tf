@@ -25,9 +25,6 @@ data "azurerm_resource_group" "main_RG" {
   name = "main"
 }
 
-// change diagnostics to storage accounts
-// check the lgos see if metrics are working
-// dones
 # ------------------------------------- US West -------------------------------------#
 
 #refer storage account if needed
